@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Matheus",
+        "cpf": "00000012341",
+        "email": "matheusteste@hotmail.com",
+        "whatsapp": "6191999-9999",
+        "address":{
+            "postalcode": "71746004",
+            "street": "SMPW Quadra 29 Conjunto 4",
+            "number": "06",
+            "details": "Casa G",
+            "district": "Park Way",
+            "city_state": "Brasília/DF" 
+        },
+        "delivery_method":"Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Pedro",
+        "cpf": "x00000123AA",
+        "email": "pedroteste@hotmail.com",
+        "whatsapp": "6191888-8888",
+        "address":{
+            "postalcode": "71746004",
+            "street": "SMPW Quadra 29 Conjunto 4",
+            "number": "06",
+            "details": "Casa G",
+            "district": "Park Way",
+            "city_state": "Brasília/DF" 
+        },
+        "delivery_method":"Bike Elétrica",
+        "cnh": "cnh-digital.jpg" 
+    },
+    "email_inv":{
+        "name": "Matheus",
+        "cpf": "00000012341",
+        "email": "matheusteste.com",
+        "whatsapp": "6191999-9999",
+        "address":{
+            "postalcode": "71746004",
+            "street": "SMPW Quadra 29 Conjunto 4",
+            "number": "06",
+            "details": "Casa G",
+            "district": "Park Way",
+            "city_state": "Brasília/DF" 
+        },
+        "delivery_method":"Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
