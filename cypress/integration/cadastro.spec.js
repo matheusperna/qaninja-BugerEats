@@ -1,4 +1,3 @@
-// import { it } from 'faker/lib/locales'
 import cadastroFactory from '../factories/CadastroFactory'
 // import { it } from 'faker/lib/locales'
 import signupPage from '../pages/SignupPage'
